@@ -64,7 +64,7 @@ education investment decisions.
 
 ## 🔗 Links
 - **Colab Notebook:** [https://colab.research.google.com/drive/1W1LD8h4sN4oslRk6svLaWBfxFHnQm4Ft?usp=sharing](https://colab.research.google.com/drive/1aQ3NiU-Y-UWsquCo81nE1WenaJPaf8Ui)
-- **GitHub Repo:** https://github.com/rishipooja1995/world_bank_education_eda
+- **GitHub Repo:** https://github.com/poojarishi-da/world_bank_education_eda
 
 ## 👤 Author
 Rishi Pooja
